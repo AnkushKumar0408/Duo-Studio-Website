@@ -1,6 +1,6 @@
 # Duo-Studio-Website
 
-So guys this is 19th project of my 30 days frontend project chellange.
+So guys this is 19th project of my 25 days frontend project chellange.
 
 This is a Animated website.
 
